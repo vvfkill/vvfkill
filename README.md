@@ -85,7 +85,7 @@ Client-server anime platform
 </p>
 
 <p>
-<a href="ССЫЛКА_НА_ANIMETRACK">GitHub →</a>
+<a href="https://github.com/vvfkill/anime_project_new">GitHub →</a>
 </p>
 
 </td>
@@ -104,7 +104,7 @@ Client-server anime platform
 </p>
 
 <p>
-<a href="ССЫЛКА_НА_ASHBORNE">GitHub →</a>
+<a href="https://github.com/vvfkill/gameAshborne">GitHub →</a>
 </p>
 
 </td>
