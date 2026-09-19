@@ -1,13 +1,47 @@
-<h1 align="center">Hi, I'm Victoria</h1>
+<div align="center">
 
-<p align="center">
-  QA Engineer | Python| Java | Test Automation
+<img src="./assets/ZmSr5ONB57jMlmoscYijl6JjHwFwzLTJ9fS6eHbQ9vuar5j8kfhWSHt3WxObv5kr-4x30H0ojml4EXxO5-5z4t-p.jpg" width="100%">
+
+<br>
+
+### QA Engineer
+
+`Python` · `Java` · `Playwright` · `Selenium` · `Pytest` · `Allure`
+
+</div>
+
+
+<td width="35%" align="center">
+
+<img src="./assets/about.png" width="220">
+
+
+
+
+<h2>About Me</h2>
+
+<p>
+QA Engineer with practical experience in web and mobile application testing.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
-  <img src="https://img.shields.io/badge/Allure-FF6A00?style=for-the-badge&logo=allure&logoColor=white">
+<p>
+Currently developing in test automation with Python, Playwright and Pytest.
 </p>
+
+<p>
+<code>Smoke testing</code>
+·
+<code>Functional Testing</code>
+·
+<code>Regression Testing</code>
+·
+<code>UI Testing</code>
+·
+<code>API Testing</code>
+</p>
+
+<p align="right">
+  <img src="./assets/about.png" width="280">
+</p>
+
+
