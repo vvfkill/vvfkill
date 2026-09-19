@@ -6,27 +6,27 @@
 
 ### QA Engineer
 
-`Python` · `Java` · `Playwright` · `Selenium` · `Pytest` · `Allure`
+`python` · `java` · `playwright` · `selenium` · `pytest` · `allure`
 
 </div>
 
 
-<h2>About Me</h2>
+<h2>about Me</h2>
 
 <img src="./assets/7d23220d827188d9ac7b3821065520d0.jpg" align="right" width="320"/>
 
 <p>
-QA Engineer with practical experience in web and mobile application testing.
-Currently developing in test automation with Python, Playwright and Pytest.
+qa engineer with practical experience in web and mobile application testing.
+currently developing in test automation with Python, Playwright and Pytest.
 </p>
 <p>
-<code>Smoke Testing</code> ·
-<code>Functional Testing</code> ·
-<code>Regression Testing</code> ·
-<code>UI/API Testing</code>
+<code>smoke</code> ·
+<code>functional</code> ·
+<code>regression</code> ·
+<code>ui/api</code>
 </p>
 <p>
-Currently focused on building reliable UI and API automated tests
+currently focused on building reliable UI and API automated tests
 and improving my skills in test automation.
 </p>
 
@@ -59,7 +59,7 @@ and improving my skills in test automation.
 <img src="https://img.shields.io/badge/Charles-111111?style=for-the-badge">
 </p>
 
-<h2>Projects</h2>
+<h2>projects</h2>
 
 <img src="./assets/fcac797c6c0feeef199a63810edc86ca.jpg"
      align="left"
@@ -70,18 +70,18 @@ and improving my skills in test automation.
 
 <td width="50%" valign="top">
 
-<h3>AnimeTrack</h3>
+<h3>animetrack</h3>
 
 <p>
-Client-server anime platform
+client-server anime platform
 </p>
 
 <p>
-<code>Python</code> ·
-<code>FastAPI</code> ·
-<code>PostgreSQL</code> ·
-<code>REST API</code> ·
-<code>Playwright</code>
+<code>python</code> ·
+<code>fastAPI</code> ·
+<code>postgreSQL</code> ·
+<code>rest api</code> ·
+<code>playwright</code>
 </p>
 
 <p>
@@ -92,15 +92,16 @@ Client-server anime platform
 
 <td width="50%" valign="top">
 
-<h3>Ashborne</h3>
+<h3>ashborne</h3>
 
 <p>
 2D game project
 </p>
 
 <p>
-<code>Java</code> ·
-<code>LibGDX</code>
+<code>java</code> ·
+<code>libgdx</code>
+<code>tiled</code>
 </p>
 
 <p>
