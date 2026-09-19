@@ -59,14 +59,16 @@ and improving my skills in test automation.
 <img src="https://img.shields.io/badge/Charles-111111?style=for-the-badge">
 </p>
 
-
 <h2>Projects</h2>
 
-<div align="center">
+<img src="./assets/fcac797c6c0feeef199a63810edc86ca.jpg"
+     align="left"
+     width="160">
 
-<table width="100%">
+<table width="65%" align="right">
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <h3>AnimeTrack</h3>
 
@@ -82,9 +84,13 @@ Client-server anime platform
 <code>Playwright</code>
 </p>
 
+<p>
+<a href="ССЫЛКА_НА_ANIMETRACK">GitHub →</a>
+</p>
+
 </td>
 
-<td width="70%">
+<td width="50%" valign="top">
 
 <h3>Ashborne</h3>
 
@@ -97,9 +103,15 @@ Client-server anime platform
 <code>LibGDX</code>
 </p>
 
+<p>
+<a href="ССЫЛКА_НА_ASHBORNE">GitHub →</a>
+</p>
+
 </td>
+
 </tr>
 </table>
 
-</div>
+<br clear="all">
+
 
